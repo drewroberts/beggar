@@ -1,0 +1,2 @@
+# beggar
+Contract for $BEGGAR
