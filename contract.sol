@@ -1,7 +1,7 @@
 /*  
-$BEGGAR Token
+$BEGGAR Token - Buy now or $BEG later..
 
-Official Website: https://
+Official Website: https://BeggarToken.com
 Official Telegram: https://t.me/BeggarToken
 Official Twitter: https://x.com/
 */
